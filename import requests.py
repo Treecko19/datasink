@@ -1,3 +1,5 @@
+// Austin Suarez Data sink assignment 
+
 import requests
 import sqlite3
 from bs4 import BeautifulSoup
